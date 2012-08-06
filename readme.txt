@@ -3,7 +3,7 @@ Contributors: danielbachhuber
 Tags: jetpack, email subscriptions, commenting, p2
 Requires at least: 3.3
 Tested up to: 3.4.1
-Stable tag: 0.0
+Stable tag: 0.1
 
 Easily subscribe to a P2 comment thread without commenting using a "Follow" action link like WordPress.com has
 

@@ -4,7 +4,7 @@ Plugin Name: Jetpack Follow Link for P2
 Plugin URI: https://github.com/danielbachhuber/Jetpack-Follow-Link-for-P2
 Description: Easily subscribe to a P2 comment thread without commenting using a "Follow" action link like WordPress.com has
 Author: Daniel Bachhuber
-Version: 0.0
+Version: 0.1
 Author URI: http://danielbachhuber.com/
 */
 
